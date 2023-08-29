@@ -1,0 +1,2 @@
+# Mini
+Shankaran'smini project
